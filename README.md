@@ -35,7 +35,7 @@ Figma
 ## CODE:
 ```
 Layout 1 
-[9:01 pm, 19/12/2025] Asath Sec: <!DOCTYPE html>
+[9:01 pm, 19/12/2025] Absar Sec: <!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
